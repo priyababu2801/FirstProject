@@ -6,3 +6,5 @@ Pie Chart
 Donut Chart
 Org Chart
 Map / Geo Chart
+adding audio files
+adding video files

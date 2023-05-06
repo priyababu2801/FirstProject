@@ -1,0 +1,8 @@
+Scatter Chart
+Line Chart
+Bar / Column Chart
+Area Chart
+Pie Chart
+Donut Chart
+Org Chart
+Map / Geo Chart
